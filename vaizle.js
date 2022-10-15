@@ -1,3 +1,5 @@
+# A Function in javascript programming language:
+
 function Solution (D) {
     let date = new Date(D);
     if (date.toString() === 'Invalid Date')
